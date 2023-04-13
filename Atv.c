@@ -77,3 +77,26 @@
 // }
 
 //---------------------------------------
+
+// int main()
+// {
+    //Atividade 5
+    //leia dois valores flutuantes, que correspondem a notas de alunos. a seguir calcule a média do aluno, sabendo que a nota A tem peso 3.5.
+    //a nota B tem peso 7.5(A soma dos pesos portanto é 11)Assuma que cada nota pode ir de 0.0 até 10.0.
+
+//     double a, b, media;
+
+//     scanf("%lf", &a);
+
+//     scanf("%lf", &b);
+
+//     media = (a*3.5)/11 + (b*7.5)/11;
+
+//     printf("MEDIA = %lf", media);
+
+//     printf("\n Fim do programa");
+//     return 0;
+// }
+
+//---------------------------------------
+
