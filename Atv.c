@@ -211,3 +211,36 @@
 // }
 
 //---------------------------------------
+
+// int main()
+// {
+    //Atividade 10
+
+    // Neste problema deve-se ler o código de uma peça 1, o numero de peças 1, o valor unitario da peça 1.
+    //o codigo de uma peça 2. o numero de peças 2. o valor unitario de uma peça 2. calcule o valor a ser pago.
+
+//     int codigo_peca, N_pecas;
+//     float valor_Uni_pecas;
+//     float soma;
+//     int codigo_pecas2, N_pecas2;
+//     float valor_Uni_pecas2;
+
+//     scanf("%d", &codigo_peca);
+//     scanf("%d", &N_pecas);
+//     scanf("%f", &valor_Uni_pecas);
+//     scanf("%d", &codigo_pecas2);
+//     scanf("%d", &N_pecas2);
+//     scanf("%f", &valor_Uni_pecas2);
+
+//     soma = valor_Uni_pecas  * N_pecas + valor_Uni_pecas2 * N_pecas2;
+    
+//     printf("VALOR A PAGAR : R$ %f \n", soma);
+
+//     printf("fim do programa");
+
+
+//     return 0;
+// }
+
+//---------------------------------------
+
