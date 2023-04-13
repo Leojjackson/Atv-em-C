@@ -1,9 +1,10 @@
 #include <stdio.h>
+#include <stdlib.h>
 
 // int main()
 // {
     // Atividade 1
-    
+
     // ler 2 valores inteiros A e B e atribui o resultado da soma a variavel X;
     // int a,b,x;
 
@@ -182,6 +183,31 @@
 
 
 //     return 0;
+// }
+
+//---------------------------------------
+
+// int main()
+// {
+    //Atividade 9
+
+    //escreva um programa que leia o nome de um vendedor, o salario fixo e o total de vendas feitas por ele no mês
+    // (em dinheiro). sabendo que este vendedor ganha 15% de bonus sobre suas vendas. informar o total a receber no final do mês.
+    // char nome;
+    // float salario_fixo, Total_de_vendas,total;
+
+    // scanf("%s", &nome);
+
+    // scanf("%f", &salario_fixo);
+
+    // scanf("%f", &Total_de_vendas);
+
+    // total = salario_fixo + (Total_de_vendas * 0.15);
+
+    // // printf("%s", nome);
+    // printf("TOTAL = R$ %f", total);
+    // printf("\n fim do programa");
+    // return 0;
 // }
 
 //---------------------------------------
