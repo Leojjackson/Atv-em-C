@@ -126,3 +126,27 @@
 
 //---------------------------------------
 
+// int main()
+// {
+    //Atividade 7
+    //leia 4 valores inteiros A, B, C, D a seguir calcule a diferença Do produto A e B pelo produto de C e D.
+
+//     int a,b,c,d,diferenca;
+
+//     scanf("%d", &a);
+
+//     scanf("%d", &b);
+
+//     scanf("%d", &c);
+
+//     scanf("%d", &d);
+
+//     diferenca = (a*b - c*d);
+
+//     printf("DIFERENCA = %d", diferenca);
+
+//     printf("\n Fim do programa");
+//     return 0;
+// }
+
+//---------------------------------------
