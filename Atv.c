@@ -100,3 +100,29 @@
 
 //---------------------------------------
 
+// int main()
+// {
+    //Atividade 6
+    //leia 3 valores A,B,C que são 3 notas de aluno.calcule a MEDIA do aluno, a nota A tem peso 2, anota B tem peso 3 e a nota C tem peso 5.
+
+//     double a;
+//     double b;
+//     double c;
+//     double media;
+
+//     scanf("%lf", &a);
+
+//     scanf("%lf", &b);
+
+//     scanf("%lf", &c);
+
+//     media = (a*2)/10 + (b*3)/10 + (c*5)/10;
+
+//     printf("MEDIA = %lf", media);
+
+//     printf("\n Fim do programa");
+//     return 0;
+// }
+
+//---------------------------------------
+
