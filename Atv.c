@@ -32,10 +32,48 @@
 //     a = area * (raio * raio);
 
 //     printf("A=%lf", a);
-//     printf("Fim do programa");
+//     printf("\n Fim do programa");
 //     return 0;
 
     
+// }
+
+//---------------------------------------
+
+// int main()
+// {
+    //Atividade 3
+    //Leia 2 valores inteiros A, B  a seguir calcule o valor entre elas e atribua o resultasdo a variavel SOMA.
+
+//     int a, b, soma;
+
+//     scanf("%d", &a);
+//     scanf("%d", &b);
+//     soma = (a+b);
+
+//     printf("SOMA = %d", soma);
+//     printf("\n Fim do programa");    
+    
+//     return 0;
+// }
+
+//---------------------------------------
+
+// int main()
+// {
+    //Atividade 4
+    //leia 2 valores inteiros, A seguir calcule o produto entre esses dois valores e atribua esta operação a variavel PROD.
+
+//     int valor1,valor2,prod;
+
+//     scanf("%d", &valor1);
+//     scanf("%d", &valor2);
+//     prod = (valor1 * valor2);
+
+//     printf("PROD = %d", prod);
+//     printf("\n Fim do programa"); 
+    
+//     return 0;
 // }
 
 //---------------------------------------
