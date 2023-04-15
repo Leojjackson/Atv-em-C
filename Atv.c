@@ -245,20 +245,21 @@
 
 //---------------------------------------
 
-int main()
-{
+// int main()
+// {
     //Atividade 11
     //faça um programa que calcule e mostre o volume de uma esfera sendo fornecido o valor de raio(R).
     //A formula para calcular o volume é: (4/3) * pi * R³. considere p valor de pi=3.14159; 
     
-    int raio, volume,pi;
-    scanf("%d", &raio);
-    pi = 3.14159;
-    volume = (4/3.0) * pi *raio*raio*raio;
+//     int raio;
+//     float volume,pi;
+//     scanf("%d", &raio);
+//     pi = 3.14159;
+//     volume = (4.0/3) * pi * (raio*raio*raio);
 
-    printf();
-    printf("Fim do programa");  
-   return 0;
+//     printf("VOLUME = %f \n", volume);
+//     printf("Fim do programa");  
+//    return 0;
 }
 
 
