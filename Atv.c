@@ -123,6 +123,7 @@
 
 //     scanf("%lf", &c);
 
+        
 //     media = (a*2)/10 + (b*3)/10 + (c*5)/10;
 
 //     printf("MEDIA = %lf", media);
@@ -243,4 +244,14 @@
 // }
 
 //---------------------------------------
+
+int main()
+{
+    //Atividade 11
+    //faça um programa que calcule e mostre o volume de uma esfera sendo fornecido o valor de raio(R).
+    //A formula para calcular o volume é: (4/3) * pi * R³. considere p valor de pi=3.14159; 
+      
+   return 0;
+}
+
 
